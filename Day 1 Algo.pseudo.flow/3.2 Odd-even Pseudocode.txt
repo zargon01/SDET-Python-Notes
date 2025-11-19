@@ -1,0 +1,14 @@
+START
+	INPUT List
+	SET Odd = 0
+	SET Even = 0
+	SET Index = 0
+	FOR EACH Number IN List > Index 
+		AND IF List [Index] % 2 == 0 THEN
+			SET Even = Even + 1
+		ELSE
+			SET Odd = Odd + 1
+		SET Index = Index + 1
+	OUTPUT Odd 
+	OUTPUT Even
+END

@@ -1,0 +1,10 @@
+Start
+Step 1: Take an Input Array
+Step 2: Set SwapIndex as the first element
+Step 3: If an element is smaller than the first element then
+Step 4: Set SwapIndex to that element
+Step 5: Swap them
+Step 6: For all the elements between SwapIndex and array goto step 3
+Step 7: For all the elements in the array goto step 2
+Step 8: Print sorted Array
+End

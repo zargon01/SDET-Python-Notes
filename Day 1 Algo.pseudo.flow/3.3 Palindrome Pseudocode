@@ -1,0 +1,12 @@
+START
+	INPUT String
+	SET Reverse = " "
+	SET Index = Length of String
+	FOR Index > 0
+		SET Reverse = Reverse + String [Index]
+		SET Index = Index - 1
+	AND IF Reverse == String THEN
+		OUTPUT String is a Palindrome
+	ELSE 
+		Output String is not a Palindrome
+END

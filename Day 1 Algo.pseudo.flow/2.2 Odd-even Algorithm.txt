@@ -1,0 +1,10 @@
+Start
+Step 1: Take user input of an integers list
+Step 2: Initialize counter odd = 0, even = 0, index = 0
+Step 3: Initialize length as length of the list
+Step 4: If the number is divisible by 2 then add even by 1
+Step 5: Else add odd by 1
+Step 6: Increase the index by 1
+Step 7: If the length is greater than index then goto step 4
+Step 8: Print the total count of odd and even
+End

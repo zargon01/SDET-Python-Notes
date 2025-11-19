@@ -1,0 +1,12 @@
+START
+	INPUT Num1
+	INPUT Num2
+	INPUT Num3
+	IF Num1>Num2 AND Num1>Num3 THEN
+		OUTPUT Num1 is largest
+	ELSE IF Num2>Num1 AND Num2>NUM3 THEN
+		OUTOUT Num2 is largest
+	ELSE
+		OUTPUT Num3 is largest
+	ENDIF
+END

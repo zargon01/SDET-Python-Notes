@@ -1,0 +1,8 @@
+Start
+Step 1: Take user input as Num1.
+Step 2: Take user inout as Num2.
+Step 3: Take user inout as Num3.
+Step 4: If Num1 greater than Num2 AND Num1 greater than Num3 then Print Num1 is largest.
+Step 5: Else if Num2 greater than Num1 AND Num2 greater than Num3 then print Num2 is largest.
+Step 6: Else print Num3 is largest.
+Stop

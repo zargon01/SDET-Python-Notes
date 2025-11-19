@@ -1,0 +1,10 @@
+Start
+Step 1: Take user input string.
+Step 2: Initialize empty string reverse
+Step 3: Initialize index as length of string -1
+Step 4: Add char on index in reverse 
+Step 5: Decrease index by 1
+Step 6: If index is greater than 0 then goto step 4
+Step 7: If string is equal to reverse then print string is a palindrome
+Step 8: Else print string is not a palindrome
+End
